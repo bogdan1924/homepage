@@ -8,12 +8,12 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.5;
 
-    --primary-text-color: #181820;
-    --secondary-text-color: #5c5c62;
-    --durability-text-color: #6a737d9c;
-    --icon-color: #6a737d;
-    --border-color: #ff9a0045;
-    --text-decoration-color: #ff9a00;
+    --primary-text-color: #1c2505;
+    --secondary-text-color: #172705;
+    --durability-text-color: #1a410b9c;
+    --icon-color: #053b10;
+    --border-color: #29702356;
+    --text-decoration-color: #549741;
 }
 
 .container {
